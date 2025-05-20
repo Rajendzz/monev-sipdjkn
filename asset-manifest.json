@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/monev_sipdjkn/static/css/main.69146c8d.css",
-    "main.js": "/monev_sipdjkn/static/js/main.669c478d.js",
-    "index.html": "/monev_sipdjkn/index.html",
-    "main.69146c8d.css.map": "/monev_sipdjkn/static/css/main.69146c8d.css.map",
-    "main.669c478d.js.map": "/monev_sipdjkn/static/js/main.669c478d.js.map"
+    "main.css": "/monev-sipdjkn/static/css/main.69146c8d.css",
+    "main.js": "/monev-sipdjkn/static/js/main.669c478d.js",
+    "index.html": "/monev-sipdjkn/index.html",
+    "main.69146c8d.css.map": "/monev-sipdjkn/static/css/main.69146c8d.css.map",
+    "main.669c478d.js.map": "/monev-sipdjkn/static/js/main.669c478d.js.map"
   },
   "entrypoints": [
     "static/css/main.69146c8d.css",
