@@ -1,0 +1,16 @@
+No.;Usulan dan Rencana UR 2025;Tanggal Kirim;Status Kirim;PIC AP;PIC TSI;Progress TSI;Status Pengembangan;Keterangan
+1;UR Penambahan Kolom Input Nilai Properti pada Survey Sewa Tanah;01/06/2025;TRUE;Anbay;Fikri;100%;TRUE;
+2;Penambahan Modul Kendali Mutu, Revisi Formulir Verifikasi Permohonan Penilaian, Revisi Kertas Kerja Survei Lapangan (KKSL) Tanah, dan Revisi Kertas Kerja Analisis Perhitungan (KKAP) Tanah ;25/02/2025;TRUE;Yohan;Puthut;95%;TRUE;"UAT tgl 22 Mei 2025. kurang pembulatan, salah logika, seharusnya di bawah 10rb ke ratusan, di atas 10rb ke ribuan, perbaikan jumlah tabel data pembanding maks 7.
+"
+3;UR Template Laporan Penilaian (Ringkas dan Formulir) untuk Penilaian Properti;15/01/2025;TRUE;Anbay;Fikri;95%;TRUE;"UAT tgl 28 Mei 2025
+Referensi nomor laporan dari ST (sebelumnya SK), nama kolom Jenis Nilai (salah ambil referensi)"
+4;UR Penambahan Field Input dan File Upload pada Modul Permohonan;02/06/2025;TRUE;Yohan;Alwi;100%;TRUE;UAT tgl 22 Mei 2025
+5;Analisis Ketersediaan Penilai dan Usulan Penilai/ Tim Penilai masuk ke dalam Probis, tidak dibuat UR tersendiri. ;20/12/2024;TRUE;Yohan;Yusri;100%;TRUE;UAT tgl 28 Mei 2025
+6;UR Peer Review dan Bantuan Tenaga Peer Review;24/02/2025;TRUE;Andri;Yusri;100%;TRUE;UAT tgl 28 Mei 2025
+7;UR Penghapusan input SK Pengkajul, Penambahan Fitur Bantuan Tenaga Kaji Ulang, dan Perubahan Kertas Kerja Kaji Ulang;19/02/2025;TRUE;Yohan;Linda;100%;TRUE;Proses VT
+8;UR DS Kaji Ulang (2024);2024;TRUE;Anbay;Fikri;100%;TRUE;Proses VT
+9;UR Interkoneksi SIMAN V2 dan SIP (2024);2024;TRUE;Anbay;Yusri;80%;TRUE;
+10;UR EWS Pelayanan Penilaian (2024);09/11/2024;TRUE;Anbay;Yusri;0%;FALSE;
+11;UR Perubahan Alur Permohonan (Probis Penilaian) (2024);2024;TRUE;Anbay;Yusri;90%;TRUE;UAT tgl 28 Mei 2025
+12;UR Perubahan dan Penambahan Role (KI, TP, Kepala Kantor) (2024);2024;TRUE;Anbay;Yusri;80%;TRUE;UAT tgl 28 Mei 2025
+13;UR penambahan field nilai sewa di SIP Survey Tanah;12/02/2025;TRUE;Yohan;Fikri;100%;TRUE;
